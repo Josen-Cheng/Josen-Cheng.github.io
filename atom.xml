@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog</title>
   
-  <subtitle>张成</subtitle>
+  <subtitle>华成张</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-24T17:39:23.071Z</updated>
+  <updated>2019-02-26T14:31:40.869Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>Hello Blog</title>
     <link href="http://yoursite.com/2019/02/25/hello-world/"/>
     <id>http://yoursite.com/2019/02/25/hello-world/</id>
     <published>2019-02-24T17:39:23.071Z</published>
-    <updated>2019-02-24T17:39:23.071Z</updated>
+    <updated>2019-02-26T14:31:40.869Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,8 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;2019年2月26日完成了，人生中第一个个人博客，虽然不会有人看，但能在网络的世界中拥有一块私有领地也是一件非常开心的事。在此感谢Blinkfox提供的主题和教程。&lt;/p&gt;
+
         
       
     
